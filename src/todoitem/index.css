@@ -1,0 +1,13 @@
+.item-container{
+    background-color:white;
+    border-bottom:1px solid #eee;
+    padding:20px;
+    position:relative;
+    
+}
+
+.item-container .del-container{
+    position: absolute;
+    top: 20px;
+    right:20px;
+}
